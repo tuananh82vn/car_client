@@ -1,3 +1,5 @@
+Make sure we connect to right back-end URL . If not please change them in file car.js / AddCar.js / EditCar.js inside components folder
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
